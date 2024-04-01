@@ -1,0 +1,7 @@
+{
+  "id": "pebbles_cobbledhunters_sync",
+  "name": "Pebble's Cobbled Hunters Sync",
+  "version": "1.0-SNAPSHOT",
+  "main": "tech.sethi.pebbles.cobbledhunters.CobbledHuntersSync",
+  "authors": ["pebbles"]
+}
